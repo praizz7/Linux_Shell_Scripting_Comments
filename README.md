@@ -25,3 +25,22 @@ Darey.io project
 </ul>
 <p>At this stage, you've established a solid foundation in Bash/shell scripting. (It's worth noting that Bash and Shell are similar in functionality, which is why their names are often used interchangeably, despite being distinct interpreters.)</p>
 <p>Moving forward, you will embark on a capstone project that provides an opportunity for hands-on practice, allowing you to apply your scripting skills in a practical setting and truly immerse yourself in the coding experience.</p>
+
+Create a Bash script named _'commented_script.sh'_
+![create](./img/vimcom.png)
+
+Input functionality that prints a welcome message
+![welcome](./img/print.png)
+
+Input functionality that creates a folder _Test_Folder_
+![create](./img/create.png)
+
+List all files in the current directory
+![ls](./img/ls.png)
+
+Input functionality that displays goodbye message
+![goodbye](./img/goodbye.png)
+
+This shows the whole script executed and showing the file permissions added and status
+![execute2](./img/execute2.png)
+![execute](./img/execute.png)
